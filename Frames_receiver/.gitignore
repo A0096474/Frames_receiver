@@ -2,3 +2,17 @@
 node_modules/
 __pycache__/
 *.pyc
+
+# Build artifacts
+/receiver_cpp/build/
+/receiver_cpp/Release/
+/receiver_cpp/x64/
+*/build/
+
+# vcpkg and package manager folders
+/receiver_cpp/vcpkg/
+/vcpkg/
+
+# OS files
+Thumbs.db
+desktop.ini

@@ -1,3 +1,0 @@
-C:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp/build/CMakeFiles/ws_receiver.dir
-C:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp/build/CMakeFiles/ZERO_CHECK.dir
