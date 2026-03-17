@@ -1,0 +1,10 @@
+^C:\USERS\VPINO\ONEDRIVE\DOCUMENTS\FRAMES_RECEIVER\RECEIVER_CPP\BUILD\CMAKEFILES\78DA79828E52657FFA11AD53B9FBC977\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp -BC:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/vpino/OneDrive/Documents/Frames_receiver/receiver_cpp/build/frames_receiver_cpp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

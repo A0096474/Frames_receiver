@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\vpino\OneDrive\Documents\Frames_receiver\receiver_cpp\ws_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\vpino\OneDrive\Documents\Frames_receiver\receiver_cpp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Natvis Include="C:\Users\vpino\OneDrive\Documents\Frames_receiver\receiver_cpp\vcpkg\installed\x64-windows\share\boost-1.90.0\assert\boost_assert.natvis" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{6C208503-61BB-39C5-BCF4-705B9F9BCA33}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
